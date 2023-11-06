@@ -1,5 +1,5 @@
 # EX-9-Simulating-Classification-using-WEKA-Tool
-## Date: 17/10/23
+## Date: 
 ## AIM:
 To perform a classification technique using WEKA tool
 ## WEKA:
